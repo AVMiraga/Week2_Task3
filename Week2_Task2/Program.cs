@@ -55,7 +55,7 @@ for (int i = 0; i < numbers.Length; i++)
 Console.WriteLine($"Sum of elements on odd positions is: {sum}");
 
 //Task 4
-//check if given string is palindrome.
+//Check if given string is palindrome.
 
 Console.WriteLine("Type a word:");
 string word = Console.ReadLine();
